@@ -1,0 +1,36 @@
+body {
+  background-image: url('../img/retina_wood.png');
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.main-title {
+  padding: 30px 0;
+  font-size: 70px;
+}
+
+.papper {
+  background-image: url('../img/brushed.png');
+  border: none;
+  font-family: 'Open Sans', sans-serif;
+  padding: 40px 70px;
+  max-width: 1000px;
+  -webkit-box-shadow: -2px 2px 7px 0px rgba(0,0,0,0.09);
+  -moz-box-shadow: -2px 2px 7px 0px rgba(0,0,0,0.09);
+  box-shadow: -2px 2px 7px 0px rgba(0,0,0,0.09);
+}
+
+.on-papper {
+  background: none;
+  border: none;
+  outline: none;
+  resize: none;
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  font-size: 35px;
+}
