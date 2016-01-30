@@ -16,7 +16,7 @@ h1 {
   border: none;
   font-family: 'Open Sans', sans-serif;
   padding: 40px 70px;
-  max-width: 1000px;
+  max-width: 750px;
   -webkit-box-shadow: -2px 2px 7px 0px rgba(0,0,0,0.09);
   -moz-box-shadow: -2px 2px 7px 0px rgba(0,0,0,0.09);
   box-shadow: -2px 2px 7px 0px rgba(0,0,0,0.09);
@@ -33,4 +33,12 @@ h1 {
 .title {
   text-align: center;
   font-size: 35px;
+}
+
+.prompt {
+  line-height: 30px;
+}
+
+.countdown {
+  font-style: italic;
 }
